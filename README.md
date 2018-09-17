@@ -1,2 +1,2 @@
 # EMUFI
-_E_thiopic _M_anuscript _U_nicode _F_ont _I_nitiative
+**E**thiopic **M**anuscript **U**nicode **F**ont **I**nitiative
