@@ -1,9 +1,18 @@
-This Font Software is Copyright (c) 2000-2013, SIL International (http://scripts.sil.org/)
+This Font Software is Copyright (c) 2000-2021, SIL International (http://scripts.sil.org/)
+with Reserved Font Names "Geʾez Manuscript Zemen", "Geʾez Manuscript ",
+"Ethiopic Manuscript Zemen", and "Ethiopic Manuscript".
+
+This font inherits the OFL license from the Abyssinica SIL typeface which declares:
+
+This Font Software is Copyright (c) 2000-2021, SIL International (http://scripts.sil.org/)
 with Reserved Font Names "Abyssinica" and "SIL".
+
+Modern Gurage glyphs Copyright (c) 2021 The Ge'ez Frontier Foundation.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
+
 
 
 -----------------------------------------------------------
