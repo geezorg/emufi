@@ -13,10 +13,10 @@ covers:
 
   117 Bet Markers
    79 Qirts Notes
-   72 Punctuation
+   78 Punctuation
    28 Ligatures
     5 Letter Variants
-  400 Numerals
+  484 Numerals
 
 
 =============================================================================
