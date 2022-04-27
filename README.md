@@ -1,6 +1,6 @@
 # EMUFI
 **E**thiopic **M**anuscript **U**nicode **F**ont **I**nitiative
-This is the public repository of the [EMUFI project](http://emufi.geezorg/).
+This is the public repository of the [EMUFI project](http://emufi.geez.org/).
 Project documentation and work products will be found here.  The primary work product of the project at this time is the [“Geʾez Manuscript Zemen”](https://github.com/geezorg/emufi/releases/latest) font.
 
 Please report defects and request additions using the repository [Issues](https://github.com/geezorg/emufi/issues) interface.
