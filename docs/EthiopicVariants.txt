@@ -1,0 +1,704 @@
+# EthiopicVariants-X.Y.Z.txt
+# Date: 2023-08-19, 19:23:17 EDT
+#
+# This is a demonstrative file that illustrates Ethiopic Variant data, modeled after Unicode's Standard Variants data file.
+#
+# Format:
+#   Field 0: the variation sequence
+#   Field 1: the description of the desired appearance
+#   Field 2: where the appearance is only different in particular shaping environments
+#	this field lists them. The possible values are: isolate, initial, medial, final.
+#	If more than one is present, there are spaces between them.
+# =============================
+
+# Variants of Mechiresha Mark (U+F4C3)
+F4C3 FE00; short mechiresha mark; # SHORT MECHIRESHA MARK
+F4C3 FE01; long mechiresha mark; # LONG MECHIRESHA MARK
+F4C3 FE02; rubricated short mechiresha mark; # RUBRICATED SHORT MECHIRESHA MARK
+F4C3 FE03; rubricated mechiresha mark; # RUBRICATED MECHIRESHA MARK
+F4C3 FE04; rubricted long mechiresha mark; # RUBRICTED LONG MECHIRESHA MARK
+F4C3 FE05; rubricated symmetric mechiresha mark; # RUBRICATED SYMMETRIC MECHIRESHA MARK
+F4C3 FE06; rubricated 3,2-dot heavy mechiresha mark; # RUBRICATED 3,2-DOT HEAVY MECHIRESHA MARK
+F4C3 FE07; rubricated 4-dot long mechiresha mark; # RUBRICATED 4-DOT LONG MECHIRESHA MARK
+
+# Variants of Upward Insertion Mark (U+F4D0)
+F4D0 FE00; two ring upper insertion mark; # TWO RING UPPER INSERTION MARK
+F4D0 FE01; three ring upper insertion mark; # THREE RING UPPER INSERTION MARK
+F4D0 FE02; inverted three ring upper insertion mark; # INVERTED THREE RING UPPER INSERTION MARK
+F4D0 FE03; three ring upper insertion mark; # THREE RING UPPER INSERTION MARK
+
+# Variants of Ethiopic Three Line Spacer (U+F4BA)
+F4BA FE00; ethiopic three line spacer with inner rubricated line; # ETHIOPIC THREE LINE SPACER WITH INNER RUBRICATED LINE
+
+# Variants of Four Ring Mekfel Mark (U+F4D6)
+F4D6 FE00; cardinal parabola mekfel mark; # CARDINAL PARABOLA MEKFEL MARK
+
+# Variants of Ethiopic Decorated Line Decoration Mark (U+F4CA)
+F4CA FE00; ethiopic line decoration mark; # ETHIOPIC LINE DECORATION MARK
+
+# Variants of Ethiopic Comma (U+1363)
+1363 FE00; ethiopic triangular three dot comma; # ETHIOPIC TRIANGULAR THREE DOT COMMA
+
+# Variants of Ethiopic Semicolon (U+1364)
+1364 FE00; ethiopic semicolon with rubricated outer bars; # ETHIOPIC SEMICOLON WITH RUBRICATED OUTER BARS
+1364 FE01; ethiopic semicolon with rubricated bars and rubricated inner stroke; # ETHIOPIC SEMICOLON WITH RUBRICATED BARS AND RUBRICATED INNER STROKE
+1364 FE02; ethiopic semicolon with four meskel oriented rubricated dots; # ETHIOPIC SEMICOLON WITH FOUR MESKEL ORIENTED RUBRICATED DOTS
+1364 FE03; ethiopic semicolon with four meskel oriented rubricated dots and rubricated inner dot; # ETHIOPIC SEMICOLON WITH FOUR MESKEL ORIENTED RUBRICATED DOTS AND RUBRICATED INNER DOT
+1364 FE04; ethiopic semicolon with rubricated square serifs; # ETHIOPIC SEMICOLON WITH RUBRICATED SQUARE SERIFS
+1364 FE05; ethiopic semicolon with rubricated double winged serifs; # ETHIOPIC SEMICOLON WITH RUBRICATED DOUBLE WINGED SERIFS
+1364 FE06; ethiopic semicolon with rubricated downward winged serifs and rubricated inner stroke; # ETHIOPIC SEMICOLON WITH RUBRICATED DOWNWARD WINGED SERIFS AND RUBRICATED INNER STROKE
+1364 FE07; ethiopic semicolon with rubricated double winged serifs and rubricated inner stroke; # ETHIOPIC SEMICOLON WITH RUBRICATED DOUBLE WINGED SERIFS AND RUBRICATED INNER STROKE
+1364 FE08; ethiopic semicolon with rubricated context bars and downward rubricated winged serifs and rubricated inner stroke with downward winged serifs; # ETHIOPIC SEMICOLON WITH RUBRICATED CONTEXT BARS AND DOWNWARD RUBRICATED WINGED SERIFS AND RUBRICATED INNER STROKE WITH DOWNWARD WINGED SERIFS
+1364 FE09; ethiopic semicolon with four meskel oriented rubricated dots and rubricated inner dot and rubricated context bars; # ETHIOPIC SEMICOLON WITH FOUR MESKEL ORIENTED RUBRICATED DOTS AND RUBRICATED INNER DOT AND RUBRICATED CONTEXT BARS
+1364 FE0A; ethiopic semicolon with rubricated context bars and downward rubricated winged serifs and with four meskel oriented rubricated dots and rubricated inner dot; # ETHIOPIC SEMICOLON WITH RUBRICATED CONTEXT BARS AND DOWNWARD RUBRICATED WINGED SERIFS AND WITH FOUR MESKEL ORIENTED RUBRICATED DOTS AND RUBRICATED INNER DOT
+1364 FE0B; ethiopic semicolon with two columns of three rubricated dots; # ETHIOPIC SEMICOLON WITH TWO COLUMNS OF THREE RUBRICATED DOTS
+1364 FE0C; ethiopic semicolon with rubricated double winged serifs and rubricated inner stroke with double winged serifs; # ETHIOPIC SEMICOLON WITH RUBRICATED DOUBLE WINGED SERIFS AND RUBRICATED INNER STROKE WITH DOUBLE WINGED SERIFS
+1364 FE0D; ethiopic semicolon with rubricated downward winged serifs; # ETHIOPIC SEMICOLON WITH RUBRICATED DOWNWARD WINGED SERIFS
+1364 FE0E; ethiopic semicolon with rubricated inner bars and rubricated inner stroke; # ETHIOPIC SEMICOLON WITH RUBRICATED INNER BARS AND RUBRICATED INNER STROKE
+1364 FE0F; ethiopic semicolon with rubricated bars and outward winged serifs and two internal lateral inner dots; # ETHIOPIC SEMICOLON WITH RUBRICATED BARS AND OUTWARD WINGED SERIFS AND TWO INTERNAL LATERAL INNER DOTS
+1364 E0100; ethiopic semicolon with rubricated outward winged serifs and two outward lateral inner dots; # ETHIOPIC SEMICOLON WITH RUBRICATED OUTWARD WINGED SERIFS AND TWO OUTWARD LATERAL INNER DOTS
+1364 E0102; ethiopic wordspace with two columns of three rubricated dots; # ETHIOPIC WORDSPACE WITH TWO COLUMNS OF THREE RUBRICATED DOTS
+1364 E0103; ethiopic semicolon with rubricated bars and downward rubricated winged serifs and rubricated inner stroke with double winged serifs and outer context bars with downward winged serifs; # ETHIOPIC SEMICOLON WITH RUBRICATED BARS AND DOWNWARD RUBRICATED WINGED SERIFS AND RUBRICATED INNER STROKE WITH DOUBLE WINGED SERIFS AND OUTER CONTEXT BARS WITH DOWNWARD WINGED SERIFS
+
+# Variants of Ethiopic Full Stop (U+1362)
+1362 FE00; rubricated meskel decorated ethiopic full stop; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP
+1362 FE01; meskel decorated rubricated ethiopic full stop; # MESKEL DECORATED RUBRICATED ETHIOPIC FULL STOP
+1362 FE02; rubricated meskel decorated ethiopic full stop with elongated north and south dots; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITH ELONGATED NORTH AND SOUTH DOTS
+1362 FE03; rubricated meskel decorated ethiopic full stop with regular inner dot; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITH REGULAR INNER DOT
+1362 FE04; rubricated meskel decorated ethiopic full stop with context bars with downward winged serifs; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITH CONTEXT BARS WITH DOWNWARD WINGED SERIFS
+1362 FE05; rubricated meskel decorated ethiopic full stop with rubricated context bars with downward winged serifs; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITH RUBRICATED CONTEXT BARS WITH DOWNWARD WINGED SERIFS
+1362 FE06; rubricated meskel decorated ethiopic full stop with stylus drag; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITH STYLUS DRAG
+1362 FE07; ethiopic full stop with stylus drag; # ETHIOPIC FULL STOP WITH STYLUS DRAG
+1362 FE08; rubricated meskel decorated ethiopic full stop without inner dot; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITHOUT INNER DOT
+1362 FE09; rubricated meskel decorated ethiopic full stop with two rightward dots and stylus drag; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITH TWO RIGHTWARD DOTS AND STYLUS DRAG
+1362 FE0A; rubricated meskel decorated ethiopic full stop with 3-5, 4-6 connected dots; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITH 3-5, 4-6 CONNECTED DOTS
+1362 FE0B; rubricated meskel decorated ethiopic full stop 3-5, 4-6 connected dots xxx; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP 3-5, 4-6 CONNECTED DOTS XXX
+1362 FE0C; rubricated meskel decorated ethiopic full stop pair joined by dots 3-1 and 4-2; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP PAIR JOINED BY DOTS 3-1 AND 4-2
+1362 FE0D; rubricated meskel decorated ethiopic full stop with 2-3 connected dots; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITH 2-3 CONNECTED DOTS
+1362 FE0E; rubricated meskel decorated ethiopic full stop  with 2-3 connected dots and upper context bar; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP  WITH 2-3 CONNECTED DOTS AND UPPER CONTEXT BAR
+1362 FE0F; rubricated meskel decorated ethiopic full stop  with 1-4 connected dots and upper context bar; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP  WITH 1-4 CONNECTED DOTS AND UPPER CONTEXT BAR
+1362 E0100; rubricated meskel decorated ethiopic full stop  with 2-3 connected dots and upper context bar with rubricated square serifs; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP  WITH 2-3 CONNECTED DOTS AND UPPER CONTEXT BAR WITH RUBRICATED SQUARE SERIFS
+1362 E0102; rubricated meskel decorated ethiopic full stop with 2-3 connected dots and upper and lower context bars; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITH 2-3 CONNECTED DOTS AND UPPER AND LOWER CONTEXT BARS
+1362 E0103; ethiopic full stop with cross connected dots; # ETHIOPIC FULL STOP WITH CROSS CONNECTED DOTS
+1362 E0104; rubricated meskel decorated ethiopic full stop with cross connected dots; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITH CROSS CONNECTED DOTS
+1362 E0105; rubricated meskel decorated ethiopic full stop with cross connected dots with upper context bar; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITH CROSS CONNECTED DOTS WITH UPPER CONTEXT BAR
+1362 E0106; rubricated meskel decorated ethiopic full stop with cross connected dots with upper context bar and rubricated square serifs; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITH CROSS CONNECTED DOTS WITH UPPER CONTEXT BAR AND RUBRICATED SQUARE SERIFS
+1362 E0107; rubricated meskel decorated ethiopic full stop with cross connected dots with upper and lower context bars with downward winged serifs; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITH CROSS CONNECTED DOTS WITH UPPER AND LOWER CONTEXT BARS WITH DOWNWARD WINGED SERIFS
+1362 E0108; rubricated ethiopic full stop with internal cross; # RUBRICATED ETHIOPIC FULL STOP WITH INTERNAL CROSS
+1362 E0109; rubricated ethiopic full stop with internal jerusalem cross; # RUBRICATED ETHIOPIC FULL STOP WITH INTERNAL JERUSALEM CROSS
+1362 E010A; rubricated ethiopic full stop with regular inner dot and context bars; # RUBRICATED ETHIOPIC FULL STOP WITH REGULAR INNER DOT AND CONTEXT BARS
+1362 E010B; ethiopic full stop with 1-4 and 2-3 connected dots with upper and lower context bars; # ETHIOPIC FULL STOP WITH 1-4 AND 2-3 CONNECTED DOTS WITH UPPER AND LOWER CONTEXT BARS
+1362 E010C; ethiopic full stop with 1-4 and 2-3 connected rubricated dots and upper and lower rubricated context bars and cardinal oriented internal dots; # ETHIOPIC FULL STOP WITH 1-4 AND 2-3 CONNECTED RUBRICATED DOTS AND UPPER AND LOWER RUBRICATED CONTEXT BARS AND CARDINAL ORIENTED INTERNAL DOTS
+1362 E010D; ethiopic full stop with rubricated inner dot; # ETHIOPIC FULL STOP WITH RUBRICATED INNER DOT
+1362 E010E; rubricated ethiopic full stop with regular inner dot; # RUBRICATED ETHIOPIC FULL STOP WITH REGULAR INNER DOT
+1362 E010F; ethiopic full stop with context bars; # ETHIOPIC FULL STOP WITH CONTEXT BARS
+1362 E0110; ethiopic full stop with 2-3 connected dots and upper and upper context bar with downward winged serifs; # ETHIOPIC FULL STOP WITH 2-3 CONNECTED DOTS AND UPPER AND UPPER CONTEXT BAR WITH DOWNWARD WINGED SERIFS
+1362 E0111; ethiopic full stop with 2-3 connected dots and upper and upper context bars; # ETHIOPIC FULL STOP WITH 2-3 CONNECTED DOTS AND UPPER AND UPPER CONTEXT BARS
+1362 E0112; rubricated meskel decorated ethiopic full stop with rubricated flared stylus drag; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP WITH RUBRICATED FLARED STYLUS DRAG
+1362 E0113; rubricated meskel decorated ethiopic full stop pair joined by dots 3-1 and 4-2 with rubricated flared stylus drag; # RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP PAIR JOINED BY DOTS 3-1 AND 4-2 WITH RUBRICATED FLARED STYLUS DRAG
+1362 E0114; abba garima wengel matthew full stop; # ABBA GARIMA WENGEL MATTHEW FULL STOP
+1362 E0115; abba garima full stop; # ABBA GARIMA FULL STOP
+1362 E0116; abbā garimā gospels 1 rubricated meskel decorated ethiopic full stop; # ABBĀ GARIMĀ GOSPELS 1 RUBRICATED MESKEL DECORATED ETHIOPIC FULL STOP
+1362 E0117; viridicated meskel decorated ethiopic full stop in green; # VIRIDICATED MESKEL DECORATED ETHIOPIC FULL STOP IN GREEN
+1362 E0118; auricated meskel decorated ethiopic full stop in gold; # AURICATED MESKEL DECORATED ETHIOPIC FULL STOP IN GOLD
+1362 E0119; rubricated ethiopic full stop with three inner dots; # RUBRICATED ETHIOPIC FULL STOP WITH THREE INNER DOTS
+1392 FE00; ethiopic tonal mark forward slanting rikrik; # ETHIOPIC TONAL MARK FORWARD SLANTING RIKRIK
+1392 FE01; ethiopic tonal mark backward slanting rikrik; # ETHIOPIC TONAL MARK BACKWARD SLANTING RIKRIK
+1393 FE00; ethiopic tonal mark forward slanting rikrik; # ETHIOPIC TONAL MARK FORWARD SLANTING RIKRIK
+1393 FE01; ethiopic tonal mark backward slanting rikrik; # ETHIOPIC TONAL MARK BACKWARD SLANTING RIKRIK
+1395 FE00; ethiopic tonal mark reverse kenat; # ETHIOPIC TONAL MARK REVERSE KENAT
+F400 FE00; ethiopic tonal mark difat hidet disjoint; # ETHIOPIC TONAL MARK DIFAT HIDET DISJOINT
+F410 FE00; ethiopic tonal mark hidet yizet disjoint; # ETHIOPIC TONAL MARK HIDET YIZET DISJOINT
+F411 FE00; ethiopic tonal mark  yizet hidet disjoint; # ETHIOPIC TONAL MARK  YIZET HIDET DISJOINT
+F40C FE00; ethiopic tonal mark hidet yizet yizet disjoint; # ETHIOPIC TONAL MARK HIDET YIZET YIZET DISJOINT
+F40D FE00; ethiopic tonal mark yizet yizet hidet disjoint; # ETHIOPIC TONAL MARK YIZET YIZET HIDET DISJOINT
+F3E9 FE00; ethiopic tonal mark deret difat deret-chiret; # ETHIOPIC TONAL MARK DERET DIFAT DERET-CHIRET
+
+
+# Ethiopic Numeral Variants
+1369 FE00; without a lower numeral bar; # ETHIOPIC DIGIT ONE WITHOUT A LOWER NUMERAL BAR
+136A FE00; without a lower numeral bar; # ETHIOPIC DIGIT TWO WITHOUT A LOWER NUMERAL BAR
+136B FE00; without a lower numeral bar; # ETHIOPIC DIGIT THREE WITHOUT A LOWER NUMERAL BAR
+136C FE00; without a lower numeral bar; # ETHIOPIC DIGIT FOUR WITHOUT A LOWER NUMERAL BAR
+136D FE00; without a lower numeral bar; # ETHIOPIC DIGIT FIVE WITHOUT A LOWER NUMERAL BAR
+136E FE00; without a lower numeral bar; # ETHIOPIC DIGIT SIX WITHOUT A LOWER NUMERAL BAR
+136F FE00; without a lower numeral bar; # ETHIOPIC DIGIT SEVEN WITHOUT A LOWER NUMERAL BAR
+1370 FE00; without a lower numeral bar; # ETHIOPIC DIGIT EIGHT WITHOUT A LOWER NUMERAL BAR
+1371 FE00; without a lower numeral bar; # ETHIOPIC DIGIT NINE WITHOUT A LOWER NUMERAL BAR
+1372 FE00; without a lower numeral bar; # ETHIOPIC NUMBER TEN WITHOUT A LOWER NUMERAL BAR
+1373 FE00; without a lower numeral bar; # ETHIOPIC NUMBER TWENTY WITHOUT A LOWER NUMERAL BAR
+1374 FE00; without a lower numeral bar; # ETHIOPIC NUMBER THIRTY WITHOUT A LOWER NUMERAL BAR
+1375 FE00; without a lower numeral bar; # ETHIOPIC NUMBER FORTY WITHOUT A LOWER NUMERAL BAR
+1376 FE00; without a lower numeral bar; # ETHIOPIC NUMBER FIFTY WITHOUT A LOWER NUMERAL BAR
+1377 FE00; without a lower numeral bar; # ETHIOPIC NUMBER SIXTY WITHOUT A LOWER NUMERAL BAR
+1378 FE00; without a lower numeral bar; # ETHIOPIC NUMBER SEVENTY WITHOUT A LOWER NUMERAL BAR
+1379 FE00; without a lower numeral bar; # ETHIOPIC NUMBER EIGHTY WITHOUT A LOWER NUMERAL BAR
+137A FE00; without a lower numeral bar; # ETHIOPIC NUMBER NINETY WITHOUT A LOWER NUMERAL BAR
+137B FE00; without a lower numeral bar; # ETHIOPIC NUMBER HUNDRED WITHOUT A LOWER NUMERAL BAR
+137C FE00; without a lower numeral bar; # ETHIOPIC NUMBER TEN THOUSAND WITHOUT A LOWER NUMERAL BAR
+F70F FE00; without a lower numeral bar; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITHOUT A LOWER NUMERAL BAR
+1369 FE01; without numeral bars; # ETHIOPIC DIGIT ONE WITHOUT NUMERAL BARS
+136A FE01; without numeral bars; # ETHIOPIC DIGIT TWO WITHOUT NUMERAL BARS
+136B FE01; without numeral bars; # ETHIOPIC DIGIT THREE WITHOUT NUMERAL BARS
+136C FE01; without numeral bars; # ETHIOPIC DIGIT FOUR WITHOUT NUMERAL BARS
+136D FE01; without numeral bars; # ETHIOPIC DIGIT FIVE WITHOUT NUMERAL BARS
+136E FE01; without numeral bars; # ETHIOPIC DIGIT SIX WITHOUT NUMERAL BARS
+136F FE01; without numeral bars; # ETHIOPIC DIGIT SEVEN WITHOUT NUMERAL BARS
+1370 FE01; without numeral bars; # ETHIOPIC DIGIT EIGHT WITHOUT NUMERAL BARS
+1371 FE01; without numeral bars; # ETHIOPIC DIGIT NINE WITHOUT NUMERAL BARS
+1372 FE01; without numeral bars; # ETHIOPIC NUMBER TEN WITHOUT NUMERAL BARS
+1373 FE01; without numeral bars; # ETHIOPIC NUMBER TWENTY WITHOUT NUMERAL BARS
+1374 FE01; without numeral bars; # ETHIOPIC NUMBER THIRTY WITHOUT NUMERAL BARS
+1375 FE01; without numeral bars; # ETHIOPIC NUMBER FORTY WITHOUT NUMERAL BARS
+1376 FE01; without numeral bars; # ETHIOPIC NUMBER FIFTY WITHOUT NUMERAL BARS
+1377 FE01; without numeral bars; # ETHIOPIC NUMBER SIXTY WITHOUT NUMERAL BARS
+1378 FE01; without numeral bars; # ETHIOPIC NUMBER SEVENTY WITHOUT NUMERAL BARS
+1379 FE01; without numeral bars; # ETHIOPIC NUMBER EIGHTY WITHOUT NUMERAL BARS
+137A FE01; without numeral bars; # ETHIOPIC NUMBER NINETY WITHOUT NUMERAL BARS
+137B FE01; without numeral bars; # ETHIOPIC NUMBER HUNDRED WITHOUT NUMERAL BARS
+137C FE01; without numeral bars; # ETHIOPIC NUMBER TEN THOUSAND WITHOUT NUMERAL BARS
+F70F FE01; without numeral bars; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITHOUT NUMERAL BARS
+1369 FE02; with rubricated numeral bars; # ETHIOPIC DIGIT ONE WITH RUBRICATED NUMERAL BARS
+136A FE02; with rubricated numeral bars; # ETHIOPIC DIGIT TWO WITH RUBRICATED NUMERAL BARS
+136B FE02; with rubricated numeral bars; # ETHIOPIC DIGIT THREE WITH RUBRICATED NUMERAL BARS
+136C FE02; with rubricated numeral bars; # ETHIOPIC DIGIT FOUR WITH RUBRICATED NUMERAL BARS
+136D FE02; with rubricated numeral bars; # ETHIOPIC DIGIT FIVE WITH RUBRICATED NUMERAL BARS
+136E FE02; with rubricated numeral bars; # ETHIOPIC DIGIT SIX WITH RUBRICATED NUMERAL BARS
+136F FE02; with rubricated numeral bars; # ETHIOPIC DIGIT SEVEN WITH RUBRICATED NUMERAL BARS
+1370 FE02; with rubricated numeral bars; # ETHIOPIC DIGIT EIGHT WITH RUBRICATED NUMERAL BARS
+1371 FE02; with rubricated numeral bars; # ETHIOPIC DIGIT NINE WITH RUBRICATED NUMERAL BARS
+1372 FE02; with rubricated numeral bars; # ETHIOPIC NUMBER TEN WITH RUBRICATED NUMERAL BARS
+1373 FE02; with rubricated numeral bars; # ETHIOPIC NUMBER TWENTY WITH RUBRICATED NUMERAL BARS
+1374 FE02; with rubricated numeral bars; # ETHIOPIC NUMBER THIRTY WITH RUBRICATED NUMERAL BARS
+1375 FE02; with rubricated numeral bars; # ETHIOPIC NUMBER FORTY WITH RUBRICATED NUMERAL BARS
+1376 FE02; with rubricated numeral bars; # ETHIOPIC NUMBER FIFTY WITH RUBRICATED NUMERAL BARS
+1377 FE02; with rubricated numeral bars; # ETHIOPIC NUMBER SIXTY WITH RUBRICATED NUMERAL BARS
+1378 FE02; with rubricated numeral bars; # ETHIOPIC NUMBER SEVENTY WITH RUBRICATED NUMERAL BARS
+1379 FE02; with rubricated numeral bars; # ETHIOPIC NUMBER EIGHTY WITH RUBRICATED NUMERAL BARS
+137A FE02; with rubricated numeral bars; # ETHIOPIC NUMBER NINETY WITH RUBRICATED NUMERAL BARS
+137B FE02; with rubricated numeral bars; # ETHIOPIC NUMBER HUNDRED WITH RUBRICATED NUMERAL BARS
+137C FE02; with rubricated numeral bars; # ETHIOPIC NUMBER TEN THOUSAND WITH RUBRICATED NUMERAL BARS
+F70F FE02; with rubricated numeral bars; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH RUBRICATED NUMERAL BARS
+1369 FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC DIGIT ONE WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+136A FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC DIGIT TWO WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+136B FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC DIGIT THREE WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+136C FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC DIGIT FOUR WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+136D FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC DIGIT FIVE WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+136E FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC DIGIT SIX WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+136F FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC DIGIT SEVEN WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+1370 FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC DIGIT EIGHT WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+1371 FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC DIGIT NINE WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+1372 FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC NUMBER TEN WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+1373 FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC NUMBER TWENTY WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+1374 FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC NUMBER THIRTY WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+1375 FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC NUMBER FORTY WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+1376 FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC NUMBER FIFTY WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+1377 FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC NUMBER SIXTY WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+1378 FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC NUMBER SEVENTY WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+1379 FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC NUMBER EIGHTY WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+137A FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC NUMBER NINETY WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+137B FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC NUMBER HUNDRED WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+137C FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC NUMBER TEN THOUSAND WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+F70F FE03; with rubricated numeral bars and without a lower numeral bar; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH RUBRICATED NUMERAL BARS AND WITHOUT A LOWER NUMERAL BAR
+1369 FE04; with rubricated body; # ETHIOPIC DIGIT ONE WITH RUBRICATED BODY
+136A FE04; with rubricated body; # ETHIOPIC DIGIT TWO WITH RUBRICATED BODY
+136B FE04; with rubricated body; # ETHIOPIC DIGIT THREE WITH RUBRICATED BODY
+136C FE04; with rubricated body; # ETHIOPIC DIGIT FOUR WITH RUBRICATED BODY
+136D FE04; with rubricated body; # ETHIOPIC DIGIT FIVE WITH RUBRICATED BODY
+136E FE04; with rubricated body; # ETHIOPIC DIGIT SIX WITH RUBRICATED BODY
+136F FE04; with rubricated body; # ETHIOPIC DIGIT SEVEN WITH RUBRICATED BODY
+1370 FE04; with rubricated body; # ETHIOPIC DIGIT EIGHT WITH RUBRICATED BODY
+1371 FE04; with rubricated body; # ETHIOPIC DIGIT NINE WITH RUBRICATED BODY
+1372 FE04; with rubricated body; # ETHIOPIC NUMBER TEN WITH RUBRICATED BODY
+1373 FE04; with rubricated body; # ETHIOPIC NUMBER TWENTY WITH RUBRICATED BODY
+1374 FE04; with rubricated body; # ETHIOPIC NUMBER THIRTY WITH RUBRICATED BODY
+1375 FE04; with rubricated body; # ETHIOPIC NUMBER FORTY WITH RUBRICATED BODY
+1376 FE04; with rubricated body; # ETHIOPIC NUMBER FIFTY WITH RUBRICATED BODY
+1377 FE04; with rubricated body; # ETHIOPIC NUMBER SIXTY WITH RUBRICATED BODY
+1378 FE04; with rubricated body; # ETHIOPIC NUMBER SEVENTY WITH RUBRICATED BODY
+1379 FE04; with rubricated body; # ETHIOPIC NUMBER EIGHTY WITH RUBRICATED BODY
+137A FE04; with rubricated body; # ETHIOPIC NUMBER NINETY WITH RUBRICATED BODY
+137B FE04; with rubricated body; # ETHIOPIC NUMBER HUNDRED WITH RUBRICATED BODY
+137C FE04; with rubricated body; # ETHIOPIC NUMBER TEN THOUSAND WITH RUBRICATED BODY
+F70F FE04; with rubricated body; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH RUBRICATED BODY
+1369 FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC DIGIT ONE WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+136A FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC DIGIT TWO WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+136B FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC DIGIT THREE WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+136C FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC DIGIT FOUR WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+136D FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC DIGIT FIVE WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+136E FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC DIGIT SIX WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+136F FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC DIGIT SEVEN WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+1370 FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC DIGIT EIGHT WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+1371 FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC DIGIT NINE WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+1372 FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC NUMBER TEN WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+1373 FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC NUMBER TWENTY WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+1374 FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC NUMBER THIRTY WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+1375 FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC NUMBER FORTY WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+1376 FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC NUMBER FIFTY WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+1377 FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC NUMBER SIXTY WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+1378 FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC NUMBER SEVENTY WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+1379 FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC NUMBER EIGHTY WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+137A FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC NUMBER NINETY WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+137B FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC NUMBER HUNDRED WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+137C FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC NUMBER TEN THOUSAND WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+F70F FE05; with rubricated body and without a lower numeral bar; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH RUBRICATED BODY AND WITHOUT A LOWER NUMERAL BAR
+1369 FE06; with rubricated serifs; # ETHIOPIC DIGIT ONE WITH RUBRICATED SERIFS
+136A FE06; with rubricated serifs; # ETHIOPIC DIGIT TWO WITH RUBRICATED SERIFS
+136B FE06; with rubricated serifs; # ETHIOPIC DIGIT THREE WITH RUBRICATED SERIFS
+136C FE06; with rubricated serifs; # ETHIOPIC DIGIT FOUR WITH RUBRICATED SERIFS
+136D FE06; with rubricated serifs; # ETHIOPIC DIGIT FIVE WITH RUBRICATED SERIFS
+136E FE06; with rubricated serifs; # ETHIOPIC DIGIT SIX WITH RUBRICATED SERIFS
+136F FE06; with rubricated serifs; # ETHIOPIC DIGIT SEVEN WITH RUBRICATED SERIFS
+1370 FE06; with rubricated serifs; # ETHIOPIC DIGIT EIGHT WITH RUBRICATED SERIFS
+1371 FE06; with rubricated serifs; # ETHIOPIC DIGIT NINE WITH RUBRICATED SERIFS
+1372 FE06; with rubricated serifs; # ETHIOPIC NUMBER TEN WITH RUBRICATED SERIFS
+1373 FE06; with rubricated serifs; # ETHIOPIC NUMBER TWENTY WITH RUBRICATED SERIFS
+1374 FE06; with rubricated serifs; # ETHIOPIC NUMBER THIRTY WITH RUBRICATED SERIFS
+1375 FE06; with rubricated serifs; # ETHIOPIC NUMBER FORTY WITH RUBRICATED SERIFS
+1376 FE06; with rubricated serifs; # ETHIOPIC NUMBER FIFTY WITH RUBRICATED SERIFS
+1377 FE06; with rubricated serifs; # ETHIOPIC NUMBER SIXTY WITH RUBRICATED SERIFS
+1378 FE06; with rubricated serifs; # ETHIOPIC NUMBER SEVENTY WITH RUBRICATED SERIFS
+1379 FE06; with rubricated serifs; # ETHIOPIC NUMBER EIGHTY WITH RUBRICATED SERIFS
+137A FE06; with rubricated serifs; # ETHIOPIC NUMBER NINETY WITH RUBRICATED SERIFS
+137B FE06; with rubricated serifs; # ETHIOPIC NUMBER HUNDRED WITH RUBRICATED SERIFS
+137C FE06; with rubricated serifs; # ETHIOPIC NUMBER TEN THOUSAND WITH RUBRICATED SERIFS
+F70F FE06; with rubricated serifs; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH RUBRICATED SERIFS
+1369 FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT ONE WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136A FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT TWO WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136B FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT THREE WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136C FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT FOUR WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136D FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT FIVE WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136E FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT SIX WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136F FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT SEVEN WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1370 FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT EIGHT WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1371 FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT NINE WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1372 FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1373 FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER TWENTY WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1374 FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER THIRTY WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1375 FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER FORTY WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1376 FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER FIFTY WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1377 FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER SIXTY WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1378 FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER SEVENTY WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1379 FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER EIGHTY WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137A FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER NINETY WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137B FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER HUNDRED WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137C FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN THOUSAND WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+F70F FE07; with rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1369 FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC DIGIT ONE RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+136A FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC DIGIT TWO RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+136B FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC DIGIT THREE RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+136C FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC DIGIT FOUR RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+136D FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC DIGIT FIVE RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+136E FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC DIGIT SIX RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+136F FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC DIGIT SEVEN RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+1370 FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC DIGIT EIGHT RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+1371 FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC DIGIT NINE RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+1372 FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC NUMBER TEN RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+1373 FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC NUMBER TWENTY RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+1374 FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC NUMBER THIRTY RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+1375 FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC NUMBER FORTY RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+1376 FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC NUMBER FIFTY RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+1377 FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC NUMBER SIXTY RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+1378 FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC NUMBER SEVENTY RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+1379 FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC NUMBER EIGHTY RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+137A FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC NUMBER NINETY RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+137B FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC NUMBER HUNDRED RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+137C FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC NUMBER TEN THOUSAND RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+F70F FE08; rubricated with non-rubricated numeral bars; # ETHIOPIC NUMBER CONJUNCTIVE TEN RUBRICATED WITH NON-RUBRICATED NUMERAL BARS
+1369 FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT ONE WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136A FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT TWO WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136B FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT THREE WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136C FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT FOUR WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136D FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT FIVE WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136E FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT SIX WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136F FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT SEVEN WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1370 FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT EIGHT WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1371 FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT NINE WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1372 FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1373 FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER TWENTY WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1374 FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER THIRTY WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1375 FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER FORTY WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1376 FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER FIFTY WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1377 FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER SIXTY WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1378 FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER SEVENTY WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1379 FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER EIGHTY WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137A FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER NINETY WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137B FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER HUNDRED WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137C FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN THOUSAND WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+F70F FE09; with rubricated body and rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH RUBRICATED BODY AND RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1369 FE0A; rubricated with non-rubricated serifs; # ETHIOPIC DIGIT ONE RUBRICATED WITH NON-RUBRICATED SERIFS
+136A FE0A; rubricated with non-rubricated serifs; # ETHIOPIC DIGIT TWO RUBRICATED WITH NON-RUBRICATED SERIFS
+136B FE0A; rubricated with non-rubricated serifs; # ETHIOPIC DIGIT THREE RUBRICATED WITH NON-RUBRICATED SERIFS
+136C FE0A; rubricated with non-rubricated serifs; # ETHIOPIC DIGIT FOUR RUBRICATED WITH NON-RUBRICATED SERIFS
+136D FE0A; rubricated with non-rubricated serifs; # ETHIOPIC DIGIT FIVE RUBRICATED WITH NON-RUBRICATED SERIFS
+136E FE0A; rubricated with non-rubricated serifs; # ETHIOPIC DIGIT SIX RUBRICATED WITH NON-RUBRICATED SERIFS
+136F FE0A; rubricated with non-rubricated serifs; # ETHIOPIC DIGIT SEVEN RUBRICATED WITH NON-RUBRICATED SERIFS
+1370 FE0A; rubricated with non-rubricated serifs; # ETHIOPIC DIGIT EIGHT RUBRICATED WITH NON-RUBRICATED SERIFS
+1371 FE0A; rubricated with non-rubricated serifs; # ETHIOPIC DIGIT NINE RUBRICATED WITH NON-RUBRICATED SERIFS
+1372 FE0A; rubricated with non-rubricated serifs; # ETHIOPIC NUMBER TEN RUBRICATED WITH NON-RUBRICATED SERIFS
+1373 FE0A; rubricated with non-rubricated serifs; # ETHIOPIC NUMBER TWENTY RUBRICATED WITH NON-RUBRICATED SERIFS
+1374 FE0A; rubricated with non-rubricated serifs; # ETHIOPIC NUMBER THIRTY RUBRICATED WITH NON-RUBRICATED SERIFS
+1375 FE0A; rubricated with non-rubricated serifs; # ETHIOPIC NUMBER FORTY RUBRICATED WITH NON-RUBRICATED SERIFS
+1376 FE0A; rubricated with non-rubricated serifs; # ETHIOPIC NUMBER FIFTY RUBRICATED WITH NON-RUBRICATED SERIFS
+1377 FE0A; rubricated with non-rubricated serifs; # ETHIOPIC NUMBER SIXTY RUBRICATED WITH NON-RUBRICATED SERIFS
+1378 FE0A; rubricated with non-rubricated serifs; # ETHIOPIC NUMBER SEVENTY RUBRICATED WITH NON-RUBRICATED SERIFS
+1379 FE0A; rubricated with non-rubricated serifs; # ETHIOPIC NUMBER EIGHTY RUBRICATED WITH NON-RUBRICATED SERIFS
+137A FE0A; rubricated with non-rubricated serifs; # ETHIOPIC NUMBER NINETY RUBRICATED WITH NON-RUBRICATED SERIFS
+137B FE0A; rubricated with non-rubricated serifs; # ETHIOPIC NUMBER HUNDRED RUBRICATED WITH NON-RUBRICATED SERIFS
+137C FE0A; rubricated with non-rubricated serifs; # ETHIOPIC NUMBER TEN THOUSAND RUBRICATED WITH NON-RUBRICATED SERIFS
+F70F FE0A; rubricated with non-rubricated serifs; # ETHIOPIC NUMBER CONJUNCTIVE TEN RUBRICATED WITH NON-RUBRICATED SERIFS
+1369 FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT ONE RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136A FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT TWO RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136B FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT THREE RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136C FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT FOUR RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136D FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT FIVE RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136E FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT SIX RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136F FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT SEVEN RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1370 FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT EIGHT RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1371 FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC DIGIT NINE RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1372 FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1373 FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER TWENTY RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1374 FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER THIRTY RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1375 FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER FORTY RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1376 FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER FIFTY RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1377 FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER SIXTY RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1378 FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER SEVENTY RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1379 FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER EIGHTY RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137A FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER NINETY RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137B FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER HUNDRED RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137C FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN THOUSAND RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+F70F FE0B; rubricated with non-rubricated serifs and without a lower numeral bar; # ETHIOPIC NUMBER CONJUNCTIVE TEN RUBRICATED WITH NON-RUBRICATED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1369 FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC DIGIT ONE WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+136A FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC DIGIT TWO WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+136B FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC DIGIT THREE WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+136C FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC DIGIT FOUR WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+136D FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC DIGIT FIVE WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+136E FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC DIGIT SIX WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+136F FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC DIGIT SEVEN WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+1370 FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC DIGIT EIGHT WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+1371 FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC DIGIT NINE WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+1372 FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC NUMBER TEN WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+1373 FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC NUMBER TWENTY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+1374 FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC NUMBER THIRTY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+1375 FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC NUMBER FORTY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+1376 FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC NUMBER FIFTY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+1377 FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC NUMBER SIXTY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+1378 FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC NUMBER SEVENTY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+1379 FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC NUMBER EIGHTY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+137A FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC NUMBER NINETY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+137B FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC NUMBER HUNDRED WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+137C FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC NUMBER TEN THOUSAND WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+F70F FE0C; with rubricated body and rubricated square serifs; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS
+1369 FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT ONE WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136A FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT TWO WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136B FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT THREE WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136C FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT FOUR WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136D FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT FIVE WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136E FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT SIX WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136F FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT SEVEN WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1370 FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT EIGHT WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1371 FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT NINE WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1372 FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1373 FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER TWENTY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1374 FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER THIRTY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1375 FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER FORTY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1376 FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER FIFTY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1377 FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER SIXTY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1378 FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER SEVENTY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1379 FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER EIGHTY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137A FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER NINETY WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137B FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER HUNDRED WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137C FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN THOUSAND WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+F70F FE0D; with rubricated body and rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1369 FE0E; with rubricated double winged serifs; # ETHIOPIC DIGIT ONE WITH RUBRICATED DOUBLE WINGED SERIFS
+136A FE0E; with rubricated double winged serifs; # ETHIOPIC DIGIT TWO WITH RUBRICATED DOUBLE WINGED SERIFS
+136B FE0E; with rubricated double winged serifs; # ETHIOPIC DIGIT THREE WITH RUBRICATED DOUBLE WINGED SERIFS
+136C FE0E; with rubricated double winged serifs; # ETHIOPIC DIGIT FOUR WITH RUBRICATED DOUBLE WINGED SERIFS
+136D FE0E; with rubricated double winged serifs; # ETHIOPIC DIGIT FIVE WITH RUBRICATED DOUBLE WINGED SERIFS
+136E FE0E; with rubricated double winged serifs; # ETHIOPIC DIGIT SIX WITH RUBRICATED DOUBLE WINGED SERIFS
+136F FE0E; with rubricated double winged serifs; # ETHIOPIC DIGIT SEVEN WITH RUBRICATED DOUBLE WINGED SERIFS
+1370 FE0E; with rubricated double winged serifs; # ETHIOPIC DIGIT EIGHT WITH RUBRICATED DOUBLE WINGED SERIFS
+1371 FE0E; with rubricated double winged serifs; # ETHIOPIC DIGIT NINE WITH RUBRICATED DOUBLE WINGED SERIFS
+1372 FE0E; with rubricated double winged serifs; # ETHIOPIC NUMBER TEN WITH RUBRICATED DOUBLE WINGED SERIFS
+1373 FE0E; with rubricated double winged serifs; # ETHIOPIC NUMBER TWENTY WITH RUBRICATED DOUBLE WINGED SERIFS
+1374 FE0E; with rubricated double winged serifs; # ETHIOPIC NUMBER THIRTY WITH RUBRICATED DOUBLE WINGED SERIFS
+1375 FE0E; with rubricated double winged serifs; # ETHIOPIC NUMBER FORTY WITH RUBRICATED DOUBLE WINGED SERIFS
+1376 FE0E; with rubricated double winged serifs; # ETHIOPIC NUMBER FIFTY WITH RUBRICATED DOUBLE WINGED SERIFS
+1377 FE0E; with rubricated double winged serifs; # ETHIOPIC NUMBER SIXTY WITH RUBRICATED DOUBLE WINGED SERIFS
+1378 FE0E; with rubricated double winged serifs; # ETHIOPIC NUMBER SEVENTY WITH RUBRICATED DOUBLE WINGED SERIFS
+1379 FE0E; with rubricated double winged serifs; # ETHIOPIC NUMBER EIGHTY WITH RUBRICATED DOUBLE WINGED SERIFS
+137A FE0E; with rubricated double winged serifs; # ETHIOPIC NUMBER NINETY WITH RUBRICATED DOUBLE WINGED SERIFS
+137B FE0E; with rubricated double winged serifs; # ETHIOPIC NUMBER HUNDRED WITH RUBRICATED DOUBLE WINGED SERIFS
+137C FE0E; with rubricated double winged serifs; # ETHIOPIC NUMBER TEN THOUSAND WITH RUBRICATED DOUBLE WINGED SERIFS
+F70F FE0E; with rubricated double winged serifs; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH RUBRICATED DOUBLE WINGED SERIFS
+1369 FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT ONE WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136A FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT TWO WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136B FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT THREE WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136C FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT FOUR WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136D FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT FIVE WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136E FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT SIX WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136F FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT SEVEN WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1370 FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT EIGHT WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1371 FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT NINE WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1372 FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1373 FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER TWENTY WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1374 FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER THIRTY WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1375 FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER FORTY WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1376 FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER FIFTY WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1377 FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER SIXTY WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1378 FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER SEVENTY WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1379 FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER EIGHTY WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137A FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER NINETY WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137B FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER HUNDRED WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137C FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN THOUSAND WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+F70F FE0F; with rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1369 E0100; with rubricated square serifs; # ETHIOPIC DIGIT ONE WITH RUBRICATED SQUARE SERIFS
+136A E0100; with rubricated square serifs; # ETHIOPIC DIGIT TWO WITH RUBRICATED SQUARE SERIFS
+136B E0100; with rubricated square serifs; # ETHIOPIC DIGIT THREE WITH RUBRICATED SQUARE SERIFS
+136C E0100; with rubricated square serifs; # ETHIOPIC DIGIT FOUR WITH RUBRICATED SQUARE SERIFS
+136D E0100; with rubricated square serifs; # ETHIOPIC DIGIT FIVE WITH RUBRICATED SQUARE SERIFS
+136E E0100; with rubricated square serifs; # ETHIOPIC DIGIT SIX WITH RUBRICATED SQUARE SERIFS
+136F E0100; with rubricated square serifs; # ETHIOPIC DIGIT SEVEN WITH RUBRICATED SQUARE SERIFS
+1370 E0100; with rubricated square serifs; # ETHIOPIC DIGIT EIGHT WITH RUBRICATED SQUARE SERIFS
+1371 E0100; with rubricated square serifs; # ETHIOPIC DIGIT NINE WITH RUBRICATED SQUARE SERIFS
+1372 E0100; with rubricated square serifs; # ETHIOPIC NUMBER TEN WITH RUBRICATED SQUARE SERIFS
+1373 E0100; with rubricated square serifs; # ETHIOPIC NUMBER TWENTY WITH RUBRICATED SQUARE SERIFS
+1374 E0100; with rubricated square serifs; # ETHIOPIC NUMBER THIRTY WITH RUBRICATED SQUARE SERIFS
+1375 E0100; with rubricated square serifs; # ETHIOPIC NUMBER FORTY WITH RUBRICATED SQUARE SERIFS
+1376 E0100; with rubricated square serifs; # ETHIOPIC NUMBER FIFTY WITH RUBRICATED SQUARE SERIFS
+1377 E0100; with rubricated square serifs; # ETHIOPIC NUMBER SIXTY WITH RUBRICATED SQUARE SERIFS
+1378 E0100; with rubricated square serifs; # ETHIOPIC NUMBER SEVENTY WITH RUBRICATED SQUARE SERIFS
+1379 E0100; with rubricated square serifs; # ETHIOPIC NUMBER EIGHTY WITH RUBRICATED SQUARE SERIFS
+137A E0100; with rubricated square serifs; # ETHIOPIC NUMBER NINETY WITH RUBRICATED SQUARE SERIFS
+137B E0100; with rubricated square serifs; # ETHIOPIC NUMBER HUNDRED WITH RUBRICATED SQUARE SERIFS
+137C E0100; with rubricated square serifs; # ETHIOPIC NUMBER TEN THOUSAND WITH RUBRICATED SQUARE SERIFS
+F70F E0100; with rubricated square serifs; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH RUBRICATED SQUARE SERIFS
+1369 E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT ONE WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136A E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT TWO WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136B E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT THREE WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136C E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT FOUR WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136D E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT FIVE WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136E E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT SIX WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136F E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT SEVEN WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1370 E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT EIGHT WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1371 E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC DIGIT NINE WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1372 E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1373 E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER TWENTY WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1374 E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER THIRTY WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1375 E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER FORTY WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1376 E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER FIFTY WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1377 E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER SIXTY WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1378 E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER SEVENTY WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1379 E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER EIGHTY WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137A E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER NINETY WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137B E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER HUNDRED WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137C E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN THOUSAND WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+F70F E0101; with rubricated square serifs and without a lower numeral bar; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH RUBRICATED SQUARE SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1369 E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC DIGIT ONE RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+136A E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC DIGIT TWO RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+136B E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC DIGIT THREE RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+136C E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC DIGIT FOUR RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+136D E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC DIGIT FIVE RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+136E E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC DIGIT SIX RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+136F E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC DIGIT SEVEN RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+1370 E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC DIGIT EIGHT RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+1371 E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC DIGIT NINE RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+1372 E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC NUMBER TEN RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+1373 E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC NUMBER TWENTY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+1374 E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC NUMBER THIRTY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+1375 E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC NUMBER FORTY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+1376 E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC NUMBER FIFTY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+1377 E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC NUMBER SIXTY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+1378 E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC NUMBER SEVENTY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+1379 E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC NUMBER EIGHTY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+137A E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC NUMBER NINETY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+137B E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC NUMBER HUNDRED RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+137C E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC NUMBER TEN THOUSAND RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+F70F E0102; rubricated with non-rubricated double winged serifs; # ETHIOPIC NUMBER CONJUNCTIVE TEN RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS
+1369 E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT ONE RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136A E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT TWO RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136B E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT THREE RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136C E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT FOUR RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136D E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT FIVE RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136E E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT SIX RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136F E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT SEVEN RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1370 E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT EIGHT RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1371 E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC DIGIT NINE RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1372 E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1373 E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER TWENTY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1374 E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER THIRTY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1375 E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER FORTY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1376 E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER FIFTY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1377 E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER SIXTY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1378 E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER SEVENTY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1379 E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER EIGHTY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137A E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER NINETY RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137B E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER HUNDRED RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137C E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN THOUSAND RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+F70F E0103; rubricated with non-rubricated double winged serifs and without a lower numeral bar; # ETHIOPIC NUMBER CONJUNCTIVE TEN RUBRICATED WITH NON-RUBRICATED DOUBLE WINGED SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1369 E0104; sans serifs; # ETHIOPIC DIGIT ONE SANS SERIFS
+136A E0104; sans serifs; # ETHIOPIC DIGIT TWO SANS SERIFS
+136B E0104; sans serifs; # ETHIOPIC DIGIT THREE SANS SERIFS
+136C E0104; sans serifs; # ETHIOPIC DIGIT FOUR SANS SERIFS
+136D E0104; sans serifs; # ETHIOPIC DIGIT FIVE SANS SERIFS
+136E E0104; sans serifs; # ETHIOPIC DIGIT SIX SANS SERIFS
+136F E0104; sans serifs; # ETHIOPIC DIGIT SEVEN SANS SERIFS
+1370 E0104; sans serifs; # ETHIOPIC DIGIT EIGHT SANS SERIFS
+1371 E0104; sans serifs; # ETHIOPIC DIGIT NINE SANS SERIFS
+1372 E0104; sans serifs; # ETHIOPIC NUMBER TEN SANS SERIFS
+1373 E0104; sans serifs; # ETHIOPIC NUMBER TWENTY SANS SERIFS
+1374 E0104; sans serifs; # ETHIOPIC NUMBER THIRTY SANS SERIFS
+1375 E0104; sans serifs; # ETHIOPIC NUMBER FORTY SANS SERIFS
+1376 E0104; sans serifs; # ETHIOPIC NUMBER FIFTY SANS SERIFS
+1377 E0104; sans serifs; # ETHIOPIC NUMBER SIXTY SANS SERIFS
+1378 E0104; sans serifs; # ETHIOPIC NUMBER SEVENTY SANS SERIFS
+1379 E0104; sans serifs; # ETHIOPIC NUMBER EIGHTY SANS SERIFS
+137A E0104; sans serifs; # ETHIOPIC NUMBER NINETY SANS SERIFS
+137B E0104; sans serifs; # ETHIOPIC NUMBER HUNDRED SANS SERIFS
+137C E0104; sans serifs; # ETHIOPIC NUMBER TEN THOUSAND SANS SERIFS
+F70F E0104; sans serifs; # ETHIOPIC NUMBER CONJUNCTIVE TEN SANS SERIFS
+1369 E0105; sans serifs and without a lower numeral bar; # ETHIOPIC DIGIT ONE SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136A E0105; sans serifs and without a lower numeral bar; # ETHIOPIC DIGIT TWO SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136B E0105; sans serifs and without a lower numeral bar; # ETHIOPIC DIGIT THREE SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136C E0105; sans serifs and without a lower numeral bar; # ETHIOPIC DIGIT FOUR SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136D E0105; sans serifs and without a lower numeral bar; # ETHIOPIC DIGIT FIVE SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136E E0105; sans serifs and without a lower numeral bar; # ETHIOPIC DIGIT SIX SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+136F E0105; sans serifs and without a lower numeral bar; # ETHIOPIC DIGIT SEVEN SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1370 E0105; sans serifs and without a lower numeral bar; # ETHIOPIC DIGIT EIGHT SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1371 E0105; sans serifs and without a lower numeral bar; # ETHIOPIC DIGIT NINE SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1372 E0105; sans serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1373 E0105; sans serifs and without a lower numeral bar; # ETHIOPIC NUMBER TWENTY SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1374 E0105; sans serifs and without a lower numeral bar; # ETHIOPIC NUMBER THIRTY SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1375 E0105; sans serifs and without a lower numeral bar; # ETHIOPIC NUMBER FORTY SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1376 E0105; sans serifs and without a lower numeral bar; # ETHIOPIC NUMBER FIFTY SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1377 E0105; sans serifs and without a lower numeral bar; # ETHIOPIC NUMBER SIXTY SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1378 E0105; sans serifs and without a lower numeral bar; # ETHIOPIC NUMBER SEVENTY SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1379 E0105; sans serifs and without a lower numeral bar; # ETHIOPIC NUMBER EIGHTY SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137A E0105; sans serifs and without a lower numeral bar; # ETHIOPIC NUMBER NINETY SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137B E0105; sans serifs and without a lower numeral bar; # ETHIOPIC NUMBER HUNDRED SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+137C E0105; sans serifs and without a lower numeral bar; # ETHIOPIC NUMBER TEN THOUSAND SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+F70F E0105; sans serifs and without a lower numeral bar; # ETHIOPIC NUMBER CONJUNCTIVE TEN SANS SERIFS AND WITHOUT A LOWER NUMERAL BAR
+1369 E0106; with double numeral bars sans serifs; # ETHIOPIC DIGIT ONE WITH DOUBLE NUMERAL BARS SANS SERIFS
+136A E0106; with double numeral bars sans serifs; # ETHIOPIC DIGIT TWO WITH DOUBLE NUMERAL BARS SANS SERIFS
+136B E0106; with double numeral bars sans serifs; # ETHIOPIC DIGIT THREE WITH DOUBLE NUMERAL BARS SANS SERIFS
+136C E0106; with double numeral bars sans serifs; # ETHIOPIC DIGIT FOUR WITH DOUBLE NUMERAL BARS SANS SERIFS
+136D E0106; with double numeral bars sans serifs; # ETHIOPIC DIGIT FIVE WITH DOUBLE NUMERAL BARS SANS SERIFS
+136E E0106; with double numeral bars sans serifs; # ETHIOPIC DIGIT SIX WITH DOUBLE NUMERAL BARS SANS SERIFS
+136F E0106; with double numeral bars sans serifs; # ETHIOPIC DIGIT SEVEN WITH DOUBLE NUMERAL BARS SANS SERIFS
+1370 E0106; with double numeral bars sans serifs; # ETHIOPIC DIGIT EIGHT WITH DOUBLE NUMERAL BARS SANS SERIFS
+1371 E0106; with double numeral bars sans serifs; # ETHIOPIC DIGIT NINE WITH DOUBLE NUMERAL BARS SANS SERIFS
+1372 E0106; with double numeral bars sans serifs; # ETHIOPIC NUMBER TEN WITH DOUBLE NUMERAL BARS SANS SERIFS
+1373 E0106; with double numeral bars sans serifs; # ETHIOPIC NUMBER TWENTY WITH DOUBLE NUMERAL BARS SANS SERIFS
+1374 E0106; with double numeral bars sans serifs; # ETHIOPIC NUMBER THIRTY WITH DOUBLE NUMERAL BARS SANS SERIFS
+1375 E0106; with double numeral bars sans serifs; # ETHIOPIC NUMBER FORTY WITH DOUBLE NUMERAL BARS SANS SERIFS
+1376 E0106; with double numeral bars sans serifs; # ETHIOPIC NUMBER FIFTY WITH DOUBLE NUMERAL BARS SANS SERIFS
+1377 E0106; with double numeral bars sans serifs; # ETHIOPIC NUMBER SIXTY WITH DOUBLE NUMERAL BARS SANS SERIFS
+1378 E0106; with double numeral bars sans serifs; # ETHIOPIC NUMBER SEVENTY WITH DOUBLE NUMERAL BARS SANS SERIFS
+1379 E0106; with double numeral bars sans serifs; # ETHIOPIC NUMBER EIGHTY WITH DOUBLE NUMERAL BARS SANS SERIFS
+137A E0106; with double numeral bars sans serifs; # ETHIOPIC NUMBER NINETY WITH DOUBLE NUMERAL BARS SANS SERIFS
+137B E0106; with double numeral bars sans serifs; # ETHIOPIC NUMBER HUNDRED WITH DOUBLE NUMERAL BARS SANS SERIFS
+137C E0106; with double numeral bars sans serifs; # ETHIOPIC NUMBER TEN THOUSAND WITH DOUBLE NUMERAL BARS SANS SERIFS
+F70F E0106; with double numeral bars sans serifs; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH DOUBLE NUMERAL BARS SANS SERIFS
+1369 E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC DIGIT ONE WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+136A E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC DIGIT TWO WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+136B E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC DIGIT THREE WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+136C E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC DIGIT FOUR WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+136D E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC DIGIT FIVE WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+136E E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC DIGIT SIX WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+136F E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC DIGIT SEVEN WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+1370 E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC DIGIT EIGHT WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+1371 E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC DIGIT NINE WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+1372 E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC NUMBER TEN WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+1373 E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC NUMBER TWENTY WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+1374 E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC NUMBER THIRTY WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+1375 E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC NUMBER FORTY WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+1376 E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC NUMBER FIFTY WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+1377 E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC NUMBER SIXTY WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+1378 E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC NUMBER SEVENTY WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+1379 E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC NUMBER EIGHTY WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+137A E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC NUMBER NINETY WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+137B E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC NUMBER HUNDRED WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+137C E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC NUMBER TEN THOUSAND WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+F70F E0107; with double numeral bars and rubricated upper bars sans serifs; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH DOUBLE NUMERAL BARS AND RUBRICATED UPPER BARS SANS SERIFS
+1369 E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC DIGIT ONE WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+136A E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC DIGIT TWO WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+136B E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC DIGIT THREE WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+136C E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC DIGIT FOUR WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+136D E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC DIGIT FIVE WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+136E E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC DIGIT SIX WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+136F E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC DIGIT SEVEN WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+1370 E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC DIGIT EIGHT WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+1371 E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC DIGIT NINE WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+1372 E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC NUMBER TEN WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+1373 E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC NUMBER TWENTY WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+1374 E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC NUMBER THIRTY WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+1375 E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC NUMBER FORTY WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+1376 E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC NUMBER FIFTY WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+1377 E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC NUMBER SIXTY WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+1378 E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC NUMBER SEVENTY WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+1379 E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC NUMBER EIGHTY WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+137A E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC NUMBER NINETY WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+137B E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC NUMBER HUNDRED WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+137C E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC NUMBER TEN THOUSAND WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+F70F E0108; with triple numeral bars and rubricated upper and lower bars sans serifs; # ETHIOPIC NUMBER CONJUNCTIVE TEN WITH TRIPLE NUMERAL BARS AND RUBRICATED UPPER AND LOWER BARS SANS SERIFS
+137C E0109; with rubricated body and rubricated square serifs and with internal serif; # ETHIOPIC NUMBER TEN THOUSAND WITH RUBRICATED BODY AND RUBRICATED SQUARE SERIFS AND WITH INTERNAL SERIF
+
+# Ethiopic Letter Variants
+121F FE00; chaîne mwaa; # ETHIOPIC SYLLABLE CHAÎNE MWAA
+121F FE01; cohen mwaa; # ETHIOPIC SYLLABLE COHEN MWAA
+122F FE00; cohen rwaa ; # ETHIOPIC SYLLABLE COHEN RWAA 
+1287 FE00; ggoa; # ETHIOPIC SYLLABLE GGOA
+1288 FE00; gebreyesus xwa; # ETHIOPIC SYLLABLE GEBREYESUS XWA
+128A FE00; gebreyesus xwi; # ETHIOPIC SYLLABLE GEBREYESUS XWI
+128B FE00; gebreyesus xwaa; # ETHIOPIC SYLLABLE GEBREYESUS XWAA
+128C FE00; gebreyesus xwee; # ETHIOPIC SYLLABLE GEBREYESUS XWEE
+128D FE00; gebreyesus xwe; # ETHIOPIC SYLLABLE GEBREYESUS XWE
+1297 FE00; chaîne nwaa; # ETHIOPIC SYLLABLE CHAÎNE NWAA
+1298 FE00; gumuz na ; # ETHIOPIC SYLLABLE GUMUZ NA 
+1299 FE00; gumuz nyu; # ETHIOPIC SYLLABLE GUMUZ NYU
+129A FE00; gumuz nyi; # ETHIOPIC SYLLABLE GUMUZ NYI
+129B FE00; gumuz nya; # ETHIOPIC SYLLABLE GUMUZ NYA
+129C FE00; gumuz nyee; # ETHIOPIC SYLLABLE GUMUZ NYEE
+129D FE00; gumuz nye; # ETHIOPIC SYLLABLE GUMUZ NYE
+129E FE00; gumuz nyo; # ETHIOPIC SYLLABLE GUMUZ NYO
+129F FE00; gumuz nywaa; # ETHIOPIC SYLLABLE GUMUZ NYWAA
+129F FE01; cohen nywaa; # ETHIOPIC SYLLABLE COHEN NYWAA
+12C3 FE00; cohen kxwaa; # ETHIOPIC SYLLABLE COHEN KXWAA
+12E0 FE00; chaîne zha; # ETHIOPIC SYLLABLE CHAÎNE ZHA
+12E1 FE00; chaîne zhu; # ETHIOPIC SYLLABLE CHAÎNE ZHU
+12E3 FE00; chaîne zhaa; # ETHIOPIC SYLLABLE CHAÎNE ZHAA
+12E4 FE00; chaîne zhee; # ETHIOPIC SYLLABLE CHAÎNE ZHEE
+12E5 FE00; chaîne zhe; # ETHIOPIC SYLLABLE CHAÎNE ZHE
+12E5 FE01; cohen zhe; # ETHIOPIC SYLLABLE COHEN ZHE
+12E6 FE00; chaîne zho; # ETHIOPIC SYLLABLE CHAÎNE ZHO
+12F8 FE00; amsalu dda; # ETHIOPIC SYLLABLE AMSALU DDA
+12F9 FE00; amsalu ddu; # ETHIOPIC SYLLABLE AMSALU DDU
+12FA FE00; amsalu ddi; # ETHIOPIC SYLLABLE AMSALU DDI
+12FB FE00; amsalu ddaa; # ETHIOPIC SYLLABLE AMSALU DDAA
+12FC FE00; amsalu ddee; # ETHIOPIC SYLLABLE AMSALU DDEE
+12FD FE00; amsalu dde; # ETHIOPIC SYLLABLE AMSALU DDE
+12FE FE00; amsalu ddo; # ETHIOPIC SYLLABLE AMSALU DDO
+1338 FE00; bilen gwaa; # ETHIOPIC SYLLABLE BILEN GWAA
+1338 FE01; bse-sim gwaa; # ETHIOPIC SYLLABLE BSE-SIM GWAA
+1318 FE00; ga with detached macron; # ETHIOPIC SYLLABLE GA WITH DETACHED MACRON
+1319 FE00; ggu with detached macron; # ETHIOPIC SYLLABLE GGU WITH DETACHED MACRON
+131A FE00; ggi with detached macron; # ETHIOPIC SYLLABLE GGI WITH DETACHED MACRON
+131B FE00; ggaa with detached macron; # ETHIOPIC SYLLABLE GGAA WITH DETACHED MACRON
+131C FE00; ggee with detached macron; # ETHIOPIC SYLLABLE GGEE WITH DETACHED MACRON
+131D FE00; gge with detached macron; # ETHIOPIC SYLLABLE GGE WITH DETACHED MACRON
+131E FE00; ggo with detached macron; # ETHIOPIC SYLLABLE GGO WITH DETACHED MACRON
+131F FE00; ggwaa with detached macron; # ETHIOPIC SYLLABLE GGWAA WITH DETACHED MACRON
+1335 FE00; praetorius phe; # ETHIOPIC SYLLABLE PRAETORIUS PHE
+133D FE00; tzwa; # ETHIOPIC SYLLABLE TZWA
+134F FE00; cohen fwa-1; # ETHIOPIC SYLLABLE COHEN FWA-1
+134F FE01; cohen fwa-2; # ETHIOPIC SYLLABLE COHEN FWA-2
+1358 FE00; cohen rya; # ETHIOPIC SYLLABLE COHEN RYA
+1359 FE00; cohen mya; # ETHIOPIC SYLLABLE COHEN MYA
+1381 FE00; bse-sim mwi; # ETHIOPIC SYLLABLE BSE-SIM MWI
+1381 FE01; leslau-sahle mwi; # ETHIOPIC SYLLABLE LESLAU-SAHLE MWI
+1383 FE00; leslau-sahle mwe-1; # ETHIOPIC SYLLABLE LESLAU-SAHLE MWE-1
+1383 FE01; leslau-sahle mwe-2; # ETHIOPIC SYLLABLE LESLAU-SAHLE MWE-2
+1385 FE00; bse-sim bwi; # ETHIOPIC SYLLABLE BSE-SIM BWI
+138A FE00; leslau-sahle fwee; # ETHIOPIC SYLLABLE LESLAU-SAHLE FWEE
+138B FE00; leslau-sahle fwe; # ETHIOPIC SYLLABLE LESLAU-SAHLE FWE
+138D FE00; bse-sim pwi; # ETHIOPIC SYLLABLE BSE-SIM PWI
