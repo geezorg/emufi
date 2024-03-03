@@ -1,6 +1,6 @@
-This Font Software is Copyright (c) 2021-2023, Raey Type (https://github.com/raeytype),
-with Reserved Font Names: "Geʾez Manuscript", "Geʾez Manuscript Zemen,
-"Ethiopic Manuscript", and "Ethiopic Manuscript Zemen".
+This Font Software is Copyright (c) 2021-2023, Raʾey Type Foundry (https://github.com/raeytype)
+with Reserved Font Names "Geʾez Manuscript Zemen", "Geʾez Manuscript ",
+"Ethiopic Manuscript Zemen", and "Ethiopic Manuscript".
 
 This font inherits the OFL license from the "EMUFI Dev" typeface Copyright (c) 2018-2021,
 Raʾey Type Foundry (https://github.com/raeytype), which in turn inherits it from the
